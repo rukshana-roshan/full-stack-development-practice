@@ -1,4 +1,4 @@
-# 📚Frontend html css bootsrap practical
+# 📚Full stack development practice
 
 A comprehensive collection of HTML, CSS, and Bootstrap projects, exercises, and solutions completed during a full-stack web development learning journey. This repository contains hands-on practice files, mini-projects, and real-world website implementations covering modern web design principles and responsive development.
 
