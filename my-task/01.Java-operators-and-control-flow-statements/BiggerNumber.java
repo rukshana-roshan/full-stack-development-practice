@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class BiggerNumber {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+         Scanner input = new Scanner(System.in);
 
         // Input two numbers
         System.out.print("Enter first number: ");

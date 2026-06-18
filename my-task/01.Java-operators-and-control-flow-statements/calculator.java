@@ -10,6 +10,7 @@ public class calculator {
         int num2 = input.nextInt();
         int add=num1+num2;
         System.out.println("Addition:" + add);
+        input.close();
         
 
         Scanner input1 = new Scanner (System.in);
@@ -19,6 +20,7 @@ public class calculator {
         int num4 = input.nextInt();
         int sub=num3-num4;
         System.out.println("Substraction:" + sub);
+        input1.close();
 
         Scanner input2 = new Scanner (System.in);
         System.out.println("Enter first number:");
@@ -27,6 +29,7 @@ public class calculator {
         int num6 = input2.nextInt();
         int multiplication=num5*num6;
         System.out.println("Multiplication:" + multiplication);
+        input2.close();
 
         Scanner input3 = new Scanner (System.in);
         System.out.printf("Enter first number:");
@@ -35,6 +38,7 @@ public class calculator {
         double num8 = input3.nextDouble();
         double Div=num7/num8;
         System.out.printf("Division: %.2f%n" , Div);
+        input3.close();
 
         Scanner input4 = new Scanner (System.in);
         System.out.println("Enter first number:");
@@ -43,6 +47,7 @@ public class calculator {
         int num10 = input4.nextInt();
         double Div2=num9/num10;
         System.out.println("Division:" + Div2);
+        input4.close();
         
     
     }
