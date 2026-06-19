@@ -4,9 +4,11 @@ public class MonthName {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        // Input month number
         System.out.print("Enter month number (1-12): ");
         int month = input.nextInt();
 
+        // Switch statement to display month name
         switch (month) {
             case 1:
                 System.out.println("January");
@@ -45,7 +47,7 @@ public class MonthName {
                 System.out.println("December");
                 break;
             default:
-                System.out.println("Invalid month number!");
+                System.out.println("Invalid month number! Please enter 1 to 12.");
         }
 
         input.close();

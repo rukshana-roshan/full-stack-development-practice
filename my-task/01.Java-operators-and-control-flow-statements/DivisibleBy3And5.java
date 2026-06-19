@@ -4,13 +4,15 @@ public class DivisibleBy3And5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
+        // Input number
         System.out.print("Enter a number: ");
-        int number = input.nextInt();
+        int num = input.nextInt();
 
-        if (number % 3 == 0 && number % 5 == 0) {
-            System.out.println("The number is divisible by both 3 and 5.");
+        // Check divisibility
+        if (num % 3 == 0 && num % 5 == 0) {
+            System.out.println(num + " is divisible by both 3 and 5.");
         } else {
-            System.out.println("The number is not divisible by both 3 and 5.");
+            System.out.println(num + " is NOT divisible by both 3 and 5.");
         }
 
         input.close();

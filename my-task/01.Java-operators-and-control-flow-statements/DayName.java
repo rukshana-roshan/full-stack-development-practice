@@ -8,7 +8,7 @@ public class DayName {
         System.out.print("Enter day number (1-7): ");
         int day = input.nextInt();
 
-        // Switch statement
+        // Switch statement to display day name
         switch (day) {
             case 1:
                 System.out.println("Monday");
@@ -32,7 +32,7 @@ public class DayName {
                 System.out.println("Sunday");
                 break;
             default:
-                System.out.println("Invalid day number! Please enter 1-7.");
+                System.out.println("Invalid day number! Please enter 1 to 7.");
         }
 
         input.close();

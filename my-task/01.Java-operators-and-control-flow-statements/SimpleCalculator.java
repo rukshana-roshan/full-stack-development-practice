@@ -39,7 +39,7 @@ public class SimpleCalculator {
                     result = num1 / num2;
                     System.out.println("Result: " + result);
                 } else {
-                    System.out.println("Error: Cannot divide by zero");
+                    System.out.println("Error: Division by zero is not allowed.");
                 }
                 break;
 
