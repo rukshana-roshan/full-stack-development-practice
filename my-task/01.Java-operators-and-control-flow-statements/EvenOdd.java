@@ -1,3 +1,6 @@
+
+//Task 02 Create a program to check whether a number is even or odd.
+
 import java.util.Scanner;
 
 public class EvenOdd {

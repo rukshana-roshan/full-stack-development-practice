@@ -1,3 +1,6 @@
+
+//Task 06 Create a program to check whether a student is pass or fail based on marks.
+
 import java.util.Scanner;
 
 public class PassOrFail {

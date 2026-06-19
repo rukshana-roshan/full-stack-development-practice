@@ -1,3 +1,6 @@
+
+//Task 09 Create a program using switch statement to display day names based on day number.
+
 import java.util.Scanner;
 
 public class DayName {

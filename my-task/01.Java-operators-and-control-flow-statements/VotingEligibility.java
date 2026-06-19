@@ -1,3 +1,6 @@
+
+//Task 04 Create a program to check whether a person is eligible for voting.
+
 import java.util.Scanner;
 
 public class VotingEligibility {

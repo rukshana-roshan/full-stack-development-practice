@@ -1,3 +1,6 @@
+
+//Task 12 Create a program to check whether a number is divisible by both 3 and 5.
+
 import java.util.Scanner;
 
 public class DivisibleBy3And5 {

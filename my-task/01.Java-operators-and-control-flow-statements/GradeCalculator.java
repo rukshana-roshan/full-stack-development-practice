@@ -1,3 +1,6 @@
+
+//Task 08 Create a grade calculator using else-if conditions.
+
 import java.util.Scanner;
 
 public class GradeCalculator {

@@ -1,3 +1,6 @@
+
+//Task 10 Create a simple calculator using switch statement.
+
 import java.util.Scanner;
 
 public class SimpleCalculator {
