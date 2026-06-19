@@ -1,8 +1,3 @@
-Here is a clean and professional **README.md** you can directly paste into your GitHub repository:
-
----
-
-```md
 # 🚀 Full Stack Development Practice
 
 Welcome to my **Full Stack Development Practice** repository!  
